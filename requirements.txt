@@ -1,0 +1,13 @@
+streamlit
+openai
+PyMuPDF
+pdfplumber
+langchain
+llama-index
+tiktoken
+pandas
+numpy
+requests
+python-dotenv
+google-generativeai
+langchain-community
